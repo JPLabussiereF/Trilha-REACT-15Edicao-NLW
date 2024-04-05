@@ -45,7 +45,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha React.
 Backend utilizado disponível em [Trilha Node.js da 15° Edição "NLW"](https://github.com/JPLabussiereF/Trilha-Nodejs-15Edicao-NLW).
 
 > [!WARNING]
-> Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e depois, clonar o projeto. Somente assim, o funcionamento vai ter êxito.
+> Você precisa instalar o [Node.js](https://nodejs.org/en/download/) e depois, clonar o projeto disponibilizado acima. Somente assim, o funcionamento vai ter êxito.
 
 **Após baixar o [Node.js](https://nodejs.org/en/download/) e clonar o repositório, abra o terminal do VScode e instale as dependências através do código abaixo!**
 
