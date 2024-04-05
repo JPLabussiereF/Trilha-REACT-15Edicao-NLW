@@ -7,8 +7,9 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha React.
 </p>
 
 <p align="center">
-  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🧠-tecnologias-ferramentas--extensões">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🚀-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🔧-configurando-o-back-end">Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -23,9 +24,9 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha React.
 </p>
 
 
-## 🧠 Tecnologias, Ferramentas & Plugins
+## 🧠 Tecnologias, Ferramentas & Extensões
 
-#### Esse projeto foi desenvolvido com as seguintes tecnologias, ferramentas, plugins & extensões:
+#### Esse projeto foi desenvolvido com as seguintes tecnologias, ferramentas extensões:
 
 - **React:** Biblioteca JavaScript de código aberto.
 - **TypeScript:** Linguagem de programação de código aberto.
@@ -40,7 +41,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha React.
 
 #### Nesse projeto, desenvolvi um gerenciador de participantes de eventos chamado "pass-in". 
 
-## 🔧 Configure o back-end
+## 🔧 Configurando o back-end
 
 Backend utilizado disponível em [Trilha Node.js da 15° Edição "NLW"](https://github.com/JPLabussiereF/Trilha-Nodejs-15Edicao-NLW).
 
